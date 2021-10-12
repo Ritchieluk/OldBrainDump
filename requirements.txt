@@ -17,7 +17,7 @@ mysql-connector-python==8.0.15
 mysqlclient==1.4.2.post1
 nms==0.1.6
 numpy==1.16.0
-opencv-python==4.0.0.21
+opencv-python==4.1.1.26
 pbr==5.1.2
 protobuf==3.6.1
 pyparsing==2.2.2
